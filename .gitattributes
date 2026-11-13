@@ -1,0 +1,4 @@
+# Normalisasi line ending — userscript harus LF agar konsisten di semua browser
+* text=auto eol=lf
+*.user.js text eol=lf
+*.md text eol=lf
